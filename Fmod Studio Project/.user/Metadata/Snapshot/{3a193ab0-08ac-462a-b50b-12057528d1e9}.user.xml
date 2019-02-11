@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="Snapshot" id="{3a193ab0-08ac-462a-b50b-12057528d1e9}"/>
+    <object class="EventAutomatableProperties" id="{bd353946-dc56-40e8-b218-730421d6c3c8}"/>
+    <object class="MarkerTrack" id="{7bc052b1-fb41-4b9b-a0e1-6cd336bb4469}"/>
+    <object class="Timeline" id="{c3098695-4fd0-486d-beda-7f328355ecb8}"/>
+    <object class="SnapshotMasterTrack" id="{737481e1-4210-472d-a99e-e45a04a50ebb}"/>
+    <object class="SnapshotProperty" id="{129475fc-9711-4195-b47f-9b41b4256e74}"/>
+    <object class="SnapshotProperty" id="{4b32bce8-92a2-426c-9167-b3c5f58b1abf}"/>
+    <object class="SnapshotProperty" id="{db8a59d0-35a5-447c-85b2-306e7c0b71d8}"/>
+    <object class="SnapshotProperty" id="{f00e2d45-5f46-45cd-84a8-772b26f4a5db}"/>
+    <object class="SnapshotProperty" id="{e87291a9-b9ab-4d77-8bf7-6f683dee718d}"/>
+    <object class="SnapshotProperty" id="{8f004ce3-95f5-4842-917e-b55cab8239bb}"/>
+    <object class="SnapshotProperty" id="{cfe815e0-a514-4a20-b0c0-640a8fdfc19a}"/>
+    <object class="SnapshotProperty" id="{27611505-0ade-4ff1-99a9-b9456a506273}"/>
+    <object class="SnapshotProperty" id="{5a8623fb-df4a-4076-a5d9-64698602ddf2}"/>
+    <object class="SnapshotProperty" id="{ff47ef91-748d-4412-ab43-341ba4f38905}"/>
+    <object class="SnapshotProperty" id="{2ea1566d-56d2-4f80-9c08-6c0d2b4cb1eb}"/>
+    <object class="SnapshotProperty" id="{8c7ef496-66aa-4a20-9500-bc04f9ab949d}"/>
+    <object class="SnapshotProperty" id="{ae2a8b44-d411-470e-8e1a-669c74c99bb3}"/>
+    <object class="SnapshotProperty" id="{09d84138-6d98-49ba-becd-920a9dd60e52}"/>
+    <object class="SnapshotProperty" id="{7ce307d0-6a39-4e49-9f3e-ba9e752b002e}"/>
+    <object class="SnapshotProperty" id="{9dab6379-9e98-4a95-87ff-b50ef3f4dd23}"/>
+    <object class="SnapshotProperty" id="{ef9f9c40-2bb8-4f60-847c-f1820549230e}"/>
+    <object class="SnapshotProperty" id="{37f9d198-38e3-4d62-95ed-3e152a74d7b7}"/>
+    <object class="SnapshotProperty" id="{b43bb728-883a-4dc9-b27a-5a824284c277}"/>
+    <object class="SnapshotProperty" id="{dab02d27-9a6d-4985-9160-5a4216634a8e}"/>
+    <object class="SnapshotProperty" id="{f5f98569-512b-450a-82fe-0f45268bd4af}"/>
+    <object class="SnapshotProperty" id="{8b492d15-6fae-4aab-a6c4-bdbddc0edb5c}"/>
+    <object class="SnapshotProperty" id="{775e742e-9dc1-4bba-97e1-81e49a5e25a5}"/>
+    <object class="SnapshotTrack" id="{598ebc7a-7a25-4609-b70d-8270105d476b}"/>
+    <object class="SnapshotTrack" id="{f8605989-28cd-4f91-a3a2-9ffd167cc301}"/>
+    <object class="SnapshotTrack" id="{4fa6f95f-5d70-4357-8a69-5747c811d61e}"/>
+    <object class="SnapshotTrack" id="{91ee82e9-f27b-41a4-8c23-d261d813ba71}"/>
+    <object class="SnapshotTrack" id="{6243df76-a1e6-4e98-a41c-39600fa2924d}"/>
+</objects>

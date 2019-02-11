@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{fca00f26-921b-4c57-abef-c21232bbd43e}">
+        <property name="assetPath">
+            <value>Ingame_Character2_Jump.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.875</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{05b6227e-f32f-488d-925b-6926ba8853fb}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{59f9d81f-ff83-427b-9c5a-c056ffce9cc0}">
+        <property name="assetPath">
+            <value>Grab_Attack.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.625</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{05b6227e-f32f-488d-925b-6926ba8853fb}</destination>
+        </relationship>
+    </object>
+</objects>

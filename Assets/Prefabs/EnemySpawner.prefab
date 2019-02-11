@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1776564220808022}
+  m_IsPrefabParent: 1
+--- !u!1 &1776564220808022
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4111910436577160}
+  - component: {fileID: 114817023837284510}
+  m_Layer: 0
+  m_Name: EnemySpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4111910436577160
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1776564220808022}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 131.3, y: 13.01, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114817023837284510
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1776564220808022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3a190d3d3eb7a94eae21791a0b5256d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OnSpawnEnd:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114471649978590762, guid: 6bdfa5ed986f0c041a6ce1ad58d3e645,
+          type: 2}
+        m_MethodName: ResetActiveCamera
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: Cinemachine.CinemachineVirtualCamera,
+            Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  spawnDelay: 8
+  spawnRate: 4
+  goToPoint: {x: -5, y: 0, z: 0}
+  spawnOrder: 0200000003000000
+  smallMeleePrefab: {fileID: 114834838209795870, guid: ab93058750e996e4e84816871035cd6b,
+    type: 2}
+  mediumMeleePrefab: {fileID: 0}
+  bigMeleePrefab: {fileID: 114323057216634692, guid: ea25cb404456a344c878ba8ea1b7674e,
+    type: 2}
+  smallRangedPrefab: {fileID: 114079349656403886, guid: b9d022b1372236f4f978e8c56d19e57d,
+    type: 2}
+  mediumRangedPrefab: {fileID: 0}
+  bigRangedPrefab: {fileID: 114840163577958134, guid: 41ae471df854c2548a431c4d6d0b0a12,
+    type: 2}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{d160b825-9cfb-4376-bd53-92e486b67896}">
+        <property name="assetPath">
+            <value>Ingame_Character2_Capacity_Morph1.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>6.666666666666667</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{05b6227e-f32f-488d-925b-6926ba8853fb}</destination>
+        </relationship>
+    </object>
+</objects>
